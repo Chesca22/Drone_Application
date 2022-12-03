@@ -6,7 +6,6 @@ import com.francisca.droneService.dto.MedicationDto;
 import com.francisca.droneService.service.DroneService;
 import com.francisca.droneService.service.MedicationService;
 import io.swagger.v3.oas.annotations.Operation;
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
