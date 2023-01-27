@@ -57,7 +57,7 @@ Clone the from the link git clone https://github.com/Chesca22/Drone_Application
 - Maven Build the project and run;
 ---
 #### Testing The API Endpoints
-#### Some of the Assumptions made in the course of the task
+#### Some assumptions made in the course of the task
 - A drone can accommadate more than one medication at a time provided the total weight af all the medications does not exceed the max weight of the drone;
 - preloaded IDs of Drones (**DJI_MAVIC03_AIR_2** , **DJI_MAVIC05_AIR_3** , **DJI_MAVIC07_AIR_4** **DJI_MAVIC01_AIR_1** , **DJI_MAVIC02_AIR_5** , **ASX_MAVIC05_AIR_7** , **0DJ_MAVIC34_AIR_2** , **DJS_MAVIC52_AIR_8** , **DSF_MAVIC08_AIR_2** , **AMP_MAVIC29_AIR_2**);
 - preloaded IDs of Medications (**PC003**, **VT0D3** , **IB35OB**);
